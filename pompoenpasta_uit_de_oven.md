@@ -1,6 +1,12 @@
 # Pompoenpasta uit de oven
 
-## Ingrediënten voor 2 a 3 personen
+**Aantal personen**: 2 a 3
+
+**Bereidingstijd**: 110 minuten
+
+**Benodigheden**: oven, blender of staafmixer
+
+## Ingrediënten
 
 - 1 grote Hokkaido pompoen
 - 75 ml crème fraîche
@@ -38,3 +44,7 @@ Het is ook mogelijk om dit de avond van te voren klaar te maken, gebruik dan wat
 Verwarm de oven voor op 180 graden.
 
 Zorg voor een bakblik dat groot genoeg is voor de pasta en de saus. Combineer de gekookte pasta en de saus. Strooi de rest van de parmezaanse kaas over de bovenkant en zet voor 18 tot 20 minuten in de oven.
+
+## Serveersuggesties
+
+Dien meteen op wanneer het uit de oven komt, eventueel met een beetje bladpeterselie.
