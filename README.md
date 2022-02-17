@@ -18,3 +18,4 @@ De volgende iconen worden gebruikt om allergenen aan te geven:
 ### Vegetarisch
 
 - [Pompoenpasta uit de oven](./pompoenpasta_uit_de_oven.md) - 🧀 🥛
+- [Limburgs zoervleisj](./zoervleisj.md) - 🥩
