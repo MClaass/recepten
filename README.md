@@ -1,4 +1,4 @@
-# recepten
+# Recepten
 
 In deze repo vind je mijn favoriete recepten, van zoet tot hartig.
 
@@ -18,4 +18,9 @@ De volgende iconen worden gebruikt om allergenen aan te geven:
 ### Vegetarisch
 
 - [Pompoenpasta uit de oven](./pompoenpasta_uit_de_oven.md) - 🧀 🥛
+
+### Vlees
+
 - [Limburgs zoervleisj](./zoervleisj.md) - 🥩
+
+Voor andere lekkere recepten, kijk eens naar [dijkpah's receptenboek](https://github.com/dijkpah/recepten).
